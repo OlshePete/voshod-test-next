@@ -22,6 +22,8 @@
 
 </details>
 
+## [Демо](https://voshod-test-next-hxx7.vercel.app/list/1)
+
 ## Запуск приложения
 
 Режим разработки:
@@ -49,5 +51,3 @@ bun dev
 ```
 
 Приложение доступно в браузере по адресу [http://localhost:3000](http://localhost:3000).
-
-## [Демо](https://voshod-test-next-hxx7.vercel.app/list/1)
